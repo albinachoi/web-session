@@ -1,12 +1,12 @@
 .search-button {
-  margin-left: 10px; /* Задайте нужный отступ в пикселях, процентах или других единицах измерения */
+  margin-left: 10px;
 }
 .selector-for-some-widget {
   box-sizing: content-box;
 }
 
 .navbar-brand img {
-  max-height: 55px; /* Замените это значение на желаемую высоту */
+  max-height: 55px;
 }
 
 body{
@@ -161,14 +161,14 @@ h1{
 }
 
 .image-container {
-  flex: 0 0 auto; /* Изображения будут масштабироваться, но не будут изменять свою ширину */
-  margin: 0 10px; /* Расстояние между изображениями и текстом */
+  flex: 0 0 auto; 
+  margin: 0 10px; 
 }
 
 img {
   max-width: 100%;
   height: 70px;
-  border-radius: 5px; /* Если нужно закруглить углы изображений */
+  border-radius: 5px; 
 }
 
 .foot{
@@ -186,21 +186,21 @@ img {
 }
 
 .thumbnail-widget a {
-  color: purple; /* Фиолетовый цвет */
+  color: purple; 
 }
 
-/* Если вы также хотите изменить цвет ссылок при наведении курсора на них */
+
 .thumbnail-widget a:hover {
-  color: darkviolet; /* Фиолетовый цвет при наведении курсора */
+  color: darkviolet; 
 }
 
 .widget a {
-  color: purple; /* Замените 'purple' на желаемый цвет */
-  text-decoration: none; /* Убирает подчеркивание под ссылками */
+  color: purple; 
+  text-decoration: none; 
 }
 
 .widget a:hover {
-  color: darkviolet; /* Цвет при наведении. Замените на нужный */
+  color: darkviolet; 
 }
 
 .product_card {
